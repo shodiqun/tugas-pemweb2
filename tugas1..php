@@ -73,7 +73,7 @@
           </tr>
           <tr>
             <td>Kulkas</td>
-            <td>Rp 3.100000</td>
+            <td>Rp 3.100.000</td>
           </tr>
           <tr>
             <td>Mesin Cuci</td>
